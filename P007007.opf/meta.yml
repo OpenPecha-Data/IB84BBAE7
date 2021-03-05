@@ -1,15 +1,16 @@
-id: opecha:P007007
+id: P007007
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W30173
   title: གྲུབ་མཐའ་ཐུབ་བསྟན་ལྷུན་པོའི་མཛེས་རྒྱན།
-  volume:
+  author: ''
+  volumes:
     620a9d92602648b3a85fae1f31125c33:
       image_group_id: I1KG10577
       title: Volume 1 of grub mtha' thub bstan lhun po'i mdzes rgyan/
       volume_number: 1
       total_pages: 610
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གྲུབ་མཐའ་ཐུབ་བསྟན་ལྷུན་པོའི་མཛེས་རྒྱན།
   author: ''
