@@ -5,11 +5,12 @@ source_metadata:
   title: གྲུབ་མཐའ་ཐུབ་བསྟན་ལྷུན་པོའི་མཛེས་རྒྱན།
   author: ''
   volumes:
-    132b36ce719e4c1e86c48fd8658bfd8e:
+    620a9d92602648b3a85fae1f31125c33:
       image_group_id: I1KG10577
-      title: ''
+      title: Volume 1 of grub mtha' thub bstan lhun po'i mdzes rgyan/
       volume_number: 1
       total_pages: 610
+      base_file: v001.txt
 ebook_metadata:
   title: གྲུབ་མཐའ་ཐུབ་བསྟན་ལྷུན་པོའི་མཛེས་རྒྱན།
   author: ''
